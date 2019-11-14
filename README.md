@@ -1,2 +1,2 @@
 # data-exercises
-Exercises for the Big Data Course
+This is a private repository with exercises for Data Engineers, Analysts and Scientists.
